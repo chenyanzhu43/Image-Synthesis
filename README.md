@@ -2,7 +2,7 @@
 
 + Project title: Neural Style Transfer
 
-![ ](../figs/content.png)
+![ ](https://github.com/chenyanzhu43/Image-Synthesis/blob/master/figs/content.png)
 
 ![ ](../Image-Synthesis/figs/style.png)
 
