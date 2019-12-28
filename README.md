@@ -2,11 +2,11 @@
 
 + Project title: Neural Style Transfer
 
+![ ](https://github.com/chenyanzhu43/Image-Synthesis/blob/master/figs/style.png)
+
 ![ ](https://github.com/chenyanzhu43/Image-Synthesis/blob/master/figs/content.png)
 
-![ ](../Image-Synthesis/figs/style.png)
-
-![ ](../Image-Synthesis/figs/result.png)
+![ ](https://github.com/chenyanzhu43/Image-Synthesis/blob/master/figs/result.png)
 
 + This project is conducted by Yanzhu Chen, Guoyong Xu, Lulu Wang, and Xiaoou Su
 
